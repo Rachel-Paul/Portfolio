@@ -25,7 +25,7 @@ p {
 }
 
 .intro {
-    display: flex;
+    
     width: 50%;
     justify-content: center;
     padding: 10px;
@@ -111,3 +111,4 @@ p {
     }
 
 }
+
